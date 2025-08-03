@@ -1,0 +1,35 @@
+@media(max-width: 750px) {
+    body{
+        background-color: yellowgreen;
+        text-decoration: whitesmoke;
+        font-family: Georgia;
+    }
+}
+h1{
+    color: bisque;
+    font-size: small;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h2{
+    color: aquamarine;
+    margin-bottom: 25px;
+    margin-bottom: 25px;
+}
+.userProfileData{
+   max-width: 50px;
+   color: cadetblue;
+   font-family: 'Times New Roman', Times, serif;
+}
+.weatherData{
+    color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.weatherData{
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color:antiquewhite;
+}
